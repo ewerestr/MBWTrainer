@@ -1,0 +1,10 @@
+C:\Users\Monolith\OneDrive\visualstudio\MBWTrainer\MBWTrainer\bin\Debug\MBWTrainer.exe.config
+C:\Users\Monolith\OneDrive\visualstudio\MBWTrainer\MBWTrainer\bin\Debug\MBWTrainer.exe
+C:\Users\Monolith\OneDrive\visualstudio\MBWTrainer\MBWTrainer\bin\Debug\MBWTrainer.pdb
+C:\Users\Monolith\OneDrive\visualstudio\MBWTrainer\MBWTrainer\obj\Debug\MBWTrainer.csprojResolveAssemblyReference.cache
+C:\Users\Monolith\OneDrive\visualstudio\MBWTrainer\MBWTrainer\obj\Debug\MBWTrainer.Form1.resources
+C:\Users\Monolith\OneDrive\visualstudio\MBWTrainer\MBWTrainer\obj\Debug\MBWTrainer.Properties.Resources.resources
+C:\Users\Monolith\OneDrive\visualstudio\MBWTrainer\MBWTrainer\obj\Debug\MBWTrainer.csproj.GenerateResource.cache
+C:\Users\Monolith\OneDrive\visualstudio\MBWTrainer\MBWTrainer\obj\Debug\MBWTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Monolith\OneDrive\visualstudio\MBWTrainer\MBWTrainer\obj\Debug\MBWTrainer.exe
+C:\Users\Monolith\OneDrive\visualstudio\MBWTrainer\MBWTrainer\obj\Debug\MBWTrainer.pdb
